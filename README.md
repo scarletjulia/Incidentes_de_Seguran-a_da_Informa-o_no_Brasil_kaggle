@@ -1,4 +1,4 @@
-# Incidentes de Segurança da Informação no Brasil Kaggle
+# Incidentes de Segurança da Informação no Brasil
 
 O objetivo do projeto é analisar os incidentes ocorridos no período
 
